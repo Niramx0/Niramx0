@@ -1,6 +1,6 @@
 ## Hola 🙂
 
-Mi nombre es Omar Salazar, pero me conocerás en redes como Niram o Niramxo, actualmente me encuentro estudiando Ingeniería de Sistemas en la Universidad Nacional de Colombia, un entusiasta de las tecnologías y la matemática, siempre con ánimos de aprender algo nuevo. Abajo tendrás mis contactos, trabajos que he realizado hasta el momento y algunos detallitos más (así como un repositorio extra que incluye el transcurso de la materia Ingeniería de Software I) así que asegurate dde revisarlos para no perderte nada :D 
+Mi nombre es Omar Salazar, pero me conocerás en redes como Niram o Niramxo, actualmente me encuentro estudiando Ingeniería de Sistemas, un entusiasta de las tecnologías y la matemática, siempre con ánimos de aprender algo nuevo. Abajo tendrás mis contactos, trabajos que he realizado hasta el momento y algunos detallitos más (así como un repositorio extra que incluye el transcurso de la materia Ingeniería de Software I) así que asegurate dde revisarlos para no perderte nada :D 
 
 - 📖 Me encuentro estudiando en la Universidad Nacional
 - 🌱 Tengo un buen manejo de los entornos de programación
