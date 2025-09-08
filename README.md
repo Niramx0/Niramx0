@@ -7,5 +7,5 @@ Mi nombre es Omar Salazar, pero me conocerás en redes como Niram o Niramxo, act
 - 🌐 Manejo de lenguajes Java y Python
 - 👯 Me gusta aportar en la lideración y organización de trabajos grupos
 
-🕴 Dato curioso: El nombre de niramxo parece no tener ningún significado, sin embargo la idea nace de un apodo divertido de colegio "Osmarín", que al invertirlo nos da un nombre curioso sin significado aparente pero fácil de pronunciar al abreviar, un ejemplo práctico de la interpretación de la criptografía 
+Dato curioso: El nombre de niramxo parece no tener ningún significado, sin embargo la idea nace de un apodo divertido de colegio "Osmarín", que al invertirlo nos da un nombre curioso sin significado aparente pero fácil de pronunciar al abreviar, un ejemplo práctico de la interpretación de la criptografía 
 
