@@ -9,11 +9,8 @@ Mi nombre es Omar Salazar, actualmente me encuentro estudiando Ingeniería de Si
 - 🌐 Manejo de lenguajes Java y Python
 - 📚 Manejo bases de datos en sql (para persistencia) y archivos JSON (con la intención de que sea más volátil)
 
-
-<img src="https://media1.tenor.com/m/yFmuhKuxussAAAAd/suzume.gif" width="70" height="70" />
-
-  
 ## Dato curioso
 El nombre de niramxo parece no tener ningún significado, sin embargo la idea nace de un apodo divertido de colegio "Osmarín", que al invertirlo nos da un nombre curioso sin significado aparente pero fácil de pronunciar al abreviar, un ejemplo práctico de la interpretación de la criptografía 
 
 
+<img src="https://media1.tenor.com/m/yFmuhKuxussAAAAd/suzume.gif" width="70" height="70" />
